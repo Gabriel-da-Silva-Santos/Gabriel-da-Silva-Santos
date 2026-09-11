@@ -30,9 +30,9 @@ Estou sempre aberto a novos desafios e oportunidades de aprendizado. Você encon
 
 ## 🎯 Atualmente Trabalhando Em
 
-- 📚 Bootcamp Santander 2026 (1º Semestre)
 - ☕ Aprendendo Java
 - 🐍 Aprofundando conhecimentos em Python
+-  Aprofundando conhecimento de Front-End
 
 ---
 
